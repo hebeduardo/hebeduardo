@@ -1,5 +1,7 @@
 <img src = "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/73efbaf4-769a-4504-8ae3-d978caf29bd3/d5tghpr-d9bfb736-6368-4591-b54c-84b65efa60ed.png/v1/fill/w_400,h_400,strp/god_of_war_2_by_edook_d5tghpr-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NDAwIiwicGF0aCI6IlwvZlwvNzNlZmJhZjQtNzY5YS00NTA0LThhZTMtZDk3OGNhZjI5YmQzXC9kNXRnaHByLWQ5YmZiNzM2LTYzNjgtNDU5MS1iNTRjLTg0YjY1ZWZhNjBlZC5wbmciLCJ3aWR0aCI6Ijw9NDAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.r403VwwxdctySL0xBI3N73zXJJCSAGWxoPmlJbQ1CY4" width = "200px" align = "right">
 
+ <img src="https://komarev.com/ghpvc/?username=hebeduardo&color=green" alt="Heberton" /> 
+
 ### Olá, Eu sou o Heberton Eduardo
 
 - 🔭 **Atualmente trabalhando:** Projetos em Autocad e programação
